@@ -1,0 +1,20 @@
+{
+  "name": "AS Awan — Abdul Salam Awan Solicitors",
+  "short_name": "AS Awan",
+  "description": "Solicitors in Jeddah and Lahore High Court. Gulf compensation, civil, criminal, family, labour, immigration and drafting.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#ff6310",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

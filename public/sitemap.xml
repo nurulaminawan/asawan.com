@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://asawan.com/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/privacy</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/privacy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/privacy"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/terms</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/terms"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/terms"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/terms"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/terms"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/services/consultancy</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/consultancy"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/services/civil</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/civil"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/services/criminal</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/criminal"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/services/family</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/family"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/family"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/family"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/family"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/family"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/services/contracts</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/contracts"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/services/insurance</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/insurance"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/services/company</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/company"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/company"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/company"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/company"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/company"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/services/compensation</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/compensation"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/services/labour</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/labour"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/services/immigration</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/immigration"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/services/opinions</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/opinions"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/services/conveyancing</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/conveyancing"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/privacy</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/privacy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/privacy"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/terms</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/terms"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/terms"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/terms"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/terms"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/services/consultancy</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/consultancy"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/services/civil</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/civil"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/services/criminal</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/criminal"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/services/family</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/family"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/family"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/family"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/family"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/family"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/services/contracts</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/contracts"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/services/insurance</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/insurance"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/services/company</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/company"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/company"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/company"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/company"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/company"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/services/compensation</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/compensation"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/services/labour</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/labour"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/services/immigration</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/immigration"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/services/opinions</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/opinions"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ar/services/conveyancing</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/conveyancing"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/privacy</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/privacy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/privacy"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/terms</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/terms"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/terms"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/terms"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/terms"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/services/consultancy</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/consultancy"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/services/civil</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/civil"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/services/criminal</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/criminal"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/services/family</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/family"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/family"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/family"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/family"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/family"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/services/contracts</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/contracts"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/services/insurance</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/insurance"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/services/company</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/company"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/company"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/company"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/company"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/company"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/services/compensation</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/compensation"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/services/labour</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/labour"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/services/immigration</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/immigration"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/services/opinions</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/opinions"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/ur/services/conveyancing</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/conveyancing"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/privacy</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/privacy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/privacy"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/terms</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/terms"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/terms"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/terms"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/terms"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/services/consultancy</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/consultancy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/consultancy"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/services/civil</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/civil"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/civil"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/services/criminal</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/criminal"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/criminal"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/services/family</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/family"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/family"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/family"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/family"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/family"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/services/contracts</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/contracts"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/contracts"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/services/insurance</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/insurance"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/insurance"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/services/company</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/company"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/company"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/company"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/company"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/company"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/services/compensation</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/compensation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/compensation"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/services/labour</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/labour"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/labour"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/services/immigration</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/immigration"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/immigration"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/services/opinions</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/opinions"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/opinions"/>
+  </url>
+  <url>
+    <loc>https://asawan.com/fr/services/conveyancing</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://asawan.com/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://asawan.com/ar/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://asawan.com/ur/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://asawan.com/fr/services/conveyancing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://asawan.com/services/conveyancing"/>
+  </url>
+</urlset>

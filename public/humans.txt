@@ -1,0 +1,11 @@
+/* TEAM */
+Solicitor: Abdul Salam Awan
+Contact: abdulsalamawan@gmail.com
+From: Jeddah, Saudi Arabia / Lahore, Pakistan
+
+/* SITE */
+Standards: HTML5, Schema.org LegalService, hreflang
+Languages: en, ar, ur, fr
+Doctype: HTML5
+Host: GitHub Pages
+Domain: asawan.com
