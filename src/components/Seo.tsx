@@ -41,20 +41,24 @@ function upsertLink(rel: string, href: string, extra: Record<string, string> = {
 }
 
 export function Seo({ title, description, path, jsonLd = [] }: Props) {
-  const { lang } = useI18n();
+  const { lang, t, rest } = useI18n();
   const meta = LANG_META[lang];
   const canonical = absoluteUrl(localizePath(lang, path));
   const alts = hreflangUrls(path);
 
   useEffect(() => {
+    const ogTitle = rest === "/" ? t.meta.ogTitle : title;
+    const ogDescription = rest === "/" ? t.meta.ogDescription : description;
     document.title = title;
     upsertMeta('meta[name="description"]', { name: "description", content: description });
-    upsertMeta('meta[property="og:title"]', { property: "og:title", content: title });
-    upsertMeta('meta[property="og:description"]', { property: "og:description", content: description });
+    upsertMeta('meta[name="keywords"]', { name: "keywords", content: t.meta.keywords });
+    upsertMeta('meta[name="language"]', { name: "language", content: meta.label });
+    upsertMeta('meta[property="og:title"]', { property: "og:title", content: ogTitle });
+    upsertMeta('meta[property="og:description"]', { property: "og:description", content: ogDescription });
     upsertMeta('meta[property="og:url"]', { property: "og:url", content: canonical });
     upsertMeta('meta[property="og:locale"]', { property: "og:locale", content: meta.og });
-    upsertMeta('meta[name="twitter:title"]', { name: "twitter:title", content: title });
-    upsertMeta('meta[name="twitter:description"]', { name: "twitter:description", content: description });
+    upsertMeta('meta[name="twitter:title"]', { name: "twitter:title", content: ogTitle });
+    upsertMeta('meta[name="twitter:description"]', { name: "twitter:description", content: ogDescription });
     upsertLink("canonical", canonical);
     (Object.keys(alts) as (Lang | "x-default")[]).forEach((code) => {
       upsertLink("alternate", alts[code], { hreflang: code });
@@ -76,7 +80,7 @@ export function Seo({ title, description, path, jsonLd = [] }: Props) {
         content: LANG_META[l].og,
       });
     });
-  }, [title, description, canonical, lang, meta.og, jsonLd, alts, path]);
+  }, [title, description, canonical, lang, meta.og, meta.label, jsonLd, alts, path, t.meta.keywords, t.meta.ogTitle, t.meta.ogDescription, rest]);
 
   return (
     <noscript>

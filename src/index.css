@@ -66,16 +66,46 @@
   html[lang="ar"] h2,
   html[lang="ar"] h3 {
     font-family: "Noto Naskh Arabic", serif;
+    line-height: 1.65 !important;
+    letter-spacing: 0 !important;
   }
   html[lang="ur"] body {
     font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif;
-    line-height: 2.05;
+    line-height: 2.15;
   }
   html[lang="ur"] h1,
   html[lang="ur"] h2,
   html[lang="ur"] h3 {
     font-family: "Noto Nastaliq Urdu", serif;
+    line-height: 2.5 !important;
+    letter-spacing: 0 !important;
+    padding-block: 0.22em 0.42em;
+    overflow: visible;
+  }
+  html[lang="ur"] h1 {
+    font-size: clamp(1.7rem, 4vw, 3.15rem) !important;
+  }
+  html[lang="ur"] h2 {
+    font-size: clamp(1.45rem, 3vw, 2.4rem) !important;
+  }
+  html[lang="ur"] h3 {
+    line-height: 2.35 !important;
+  }
+  html[lang="ur"] .lang-hero {
+    line-height: 2.55 !important;
+    letter-spacing: 0 !important;
+  }
+  html[lang="ur"] .lang-hero span {
+    display: block;
+    padding-block: 0.15em 0.3em;
+  }
+  html[lang="ur"] button,
+  html[lang="ur"] a,
+  html[lang="ur"] p,
+  html[lang="ur"] li,
+  html[lang="ur"] label {
     line-height: 2.15;
+    letter-spacing: 0;
   }
 }
 

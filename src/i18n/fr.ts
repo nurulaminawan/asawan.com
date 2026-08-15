@@ -2,17 +2,17 @@ import type { Dictionary } from "./types";
 
 export const fr: Dictionary = {
   meta: {
-    title: "AS Awan | Abdul Salam Awan Solicitors | Avocats à Djeddah et Lahore",
+    title: "AS Awan | Abdul Salam Awan | Avocats à Djeddah et Lahore",
     description:
-      "Abdul Salam Awan Solicitors (AS Awan) — avocats et consultants à Djeddah (Palestine Road, Arabie saoudite) et à la Haute Cour de Lahore (Turner Road). Droit civil, pénal, familial, contrats, assurances, sociétés et travail. Indemnisation décès, blessures, accidents de la route et accidents du travail dans les pays du Golfe. Immigration, visas d’études, avis juridiques, juristes d’entreprise et actes immobiliers.",
+      "Abdul Salam Awan (AS Awan) — avocats et consultants à Djeddah (Palestine Road, Arabie saoudite) et à la Haute Cour de Lahore (Turner Road). Droit civil, pénal, familial, contrats, assurances, sociétés et travail. Indemnisation décès, blessures, accidents de la route et accidents du travail dans le Golfe. Immigration, visas d’études, avis juridiques, juristes d’entreprise et actes immobiliers.",
     keywords:
-      "Abdul Salam Awan, avocats Djeddah, Palestine Road, Lahore High Court, indemnisation Golfe, accident travail Arabie saoudite, avocat labour, visa études, droit de la famille",
-    ogTitle: "AS Awan — Abdul Salam Awan Solicitors | Djeddah & Lahore",
+      "Abdul Salam Awan, avocat Djeddah, avocat Lahore, Palestine Road Djeddah, Haute Cour de Lahore, indemnisation accident Arabie saoudite, accident du travail Golfe, avocat du travail, visa études Pakistan, droit de la famille, AS Awan",
+    ogTitle: "AS Awan — Avocats Djeddah et Lahore | Indemnisation Golfe",
     ogDescription:
-      "Solicitors transfrontaliers pour le civil, le pénal, la famille, le travail et l’indemnisation dans le Golfe. Bureaux à Palestine Road, Djeddah et Turner Road, Haute Cour de Lahore.",
+      "Avocats transfrontaliers pour le civil, le pénal, la famille, le travail et l’indemnisation dans le Golfe. Bureaux à Palestine Road, Djeddah et Turner Road, Haute Cour de Lahore.",
   },
   brand: {
-    kicker: "Solicitors & consultants juridiques",
+    kicker: "Avocats et consultants juridiques",
     name: "AS Awan",
     legal: "Abdul Salam Awan Solicitors",
   },
