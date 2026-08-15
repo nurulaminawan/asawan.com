@@ -123,3 +123,19 @@
 .animate-accordion-up {
   animation: accordion-up 0.2s ease-out;
 }
+
+/* Unlayered so Urdu spacing beats Tailwind leading utilities */
+html[lang="ur"] h1.lang-hero {
+  display: flex;
+  flex-direction: column;
+  gap: 1.15rem;
+  line-height: 1 !important;
+  letter-spacing: 0 !important;
+  font-size: clamp(1.55rem, 3.6vw, 2.65rem) !important;
+}
+html[lang="ur"] h1.lang-hero > span {
+  display: block;
+  line-height: 2.8 !important;
+  padding-block: 0.45em 0.65em;
+  overflow: visible;
+}

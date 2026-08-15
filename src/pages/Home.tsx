@@ -120,7 +120,11 @@ export default function Home() {
                 initial="hidden"
                 animate="visible"
                 variants={stagger}
-                className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-black tracking-tight leading-[1.1] mb-6 lang-hero"
+                className={
+                  lang === "ur"
+                    ? "lang-hero mb-8 flex flex-col gap-6 md:gap-8 text-3xl sm:text-4xl md:text-5xl font-black tracking-normal leading-none"
+                    : "lang-hero mb-6 text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-black tracking-tight leading-[1.1]"
+                }
               >
                 <motion.span variants={fadeUp} className="block text-primary">
                   {t.hero.line1}
