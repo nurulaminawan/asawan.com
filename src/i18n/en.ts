@@ -13,7 +13,7 @@ export const en: Dictionary = {
       "Cross-border solicitors for civil, criminal, family, labour and Gulf compensation matters. Offices on Palestine Road, Jeddah and Turner Road, Lahore High Court.",
   },
   brand: {
-    kicker: "Solicitors & Legal Consultants",
+    kicker: "Solicitors and Legal Consultants",
     name: "AS Awan",
     legal: "Abdul Salam Awan Solicitors",
   },
@@ -29,16 +29,16 @@ export const en: Dictionary = {
     consult: "Book a Consultation",
   },
   hero: {
-    line1: "Counsel that",
-    line2: "protects families & workers",
-    line3: "across Pakistan & the Gulf",
+    line1: "Counsel that protects",
+    line2: "families and workers",
+    line3: "across Pakistan and the Gulf",
     subtitle:
-      "Abdul Salam Awan Solicitors (AS Awan) advises individuals, families and companies on civil, criminal, family, contractual, insurance and company matters — with particular strength in death, injury, road accident and workplace compensation in Gulf countries, plus labour, immigration, education visas, conveyancing and in-house counsel.",
+      "Abdul Salam Awan Solicitors (AS Awan) advise individuals, families and companies on civil, criminal, family, contract, insurance and company matters, with particular strength in compensation for death, injury, road accidents and workplace harm in Gulf countries, as well as labour law, immigration and education-visa consultancy, conveyancing and in-house counsel.",
     cta: "Speak to a Solicitor",
     cta2: "Explore Our Services",
   },
   stats: [
-    { value: "2", label: "Offices — Jeddah & Lahore" },
+    { value: "2", label: "Offices — Jeddah and Lahore" },
     { value: "GCC+", label: "Gulf compensation coverage" },
     { value: "12+", label: "Practice areas" },
     { value: "4", label: "Languages — EN, AR, UR, FR" },
