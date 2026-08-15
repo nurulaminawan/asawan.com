@@ -122,17 +122,26 @@ export default function Home() {
                 variants={stagger}
                 className={
                   lang === "ur"
-                    ? "lang-hero mb-8 flex flex-col gap-6 md:gap-8 text-3xl sm:text-4xl md:text-5xl font-black tracking-normal leading-none"
+                    ? "lang-hero mb-8 flex flex-col text-3xl sm:text-4xl md:text-5xl tracking-normal"
                     : "lang-hero mb-6 text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-black tracking-tight leading-[1.1]"
                 }
               >
-                <motion.span variants={fadeUp} className="block text-primary">
+                <motion.span
+                  variants={lang === "ur" ? { hidden: { opacity: 0 }, visible: { opacity: 1 } } : fadeUp}
+                  className="lang-hero-line block text-primary"
+                >
                   {t.hero.line1}
                 </motion.span>
-                <motion.span variants={fadeUp} className="block">
+                <motion.span
+                  variants={lang === "ur" ? { hidden: { opacity: 0 }, visible: { opacity: 1 } } : fadeUp}
+                  className="lang-hero-line block"
+                >
                   {t.hero.line2}
                 </motion.span>
-                <motion.span variants={fadeUp} className="block text-primary">
+                <motion.span
+                  variants={lang === "ur" ? { hidden: { opacity: 0 }, visible: { opacity: 1 } } : fadeUp}
+                  className="lang-hero-line block text-primary"
+                >
                   {t.hero.line3}
                 </motion.span>
               </motion.h1>
