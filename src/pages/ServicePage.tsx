@@ -59,7 +59,7 @@ export default function ServicePage() {
           </ul>
           <div className="flex flex-col sm:flex-row gap-4">
             <Link href={`${localizePath(lang, "/")}#contact`}>
-              <Button className="bg-primary text-white font-bold h-12 px-8 rounded-none">{t.serviceCta}</Button>
+              <Button className="bg-primary text-primary-foreground font-bold h-12 px-8 rounded-none">{t.serviceCta}</Button>
             </Link>
             <Link href={`${localizePath(lang, "/")}#services`} className="text-primary font-semibold self-center">
               {t.backHome} →

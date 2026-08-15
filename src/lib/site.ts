@@ -4,7 +4,7 @@ export const SITE = {
   person: "Abdul Salam Awan",
   url: "https://asawan.com",
   email: "abdulsalamawan@gmail.com",
-  themeColor: "#ff6310",
+  themeColor: "#c6a15b",
   foundingYear: 1998,
   phones: [
     {

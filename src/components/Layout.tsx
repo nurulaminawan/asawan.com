@@ -45,13 +45,13 @@ export function Layout({ children }: { children: React.ReactNode }) {
   };
 
   return (
-    <div className="min-h-screen bg-background text-foreground font-sans selection:bg-primary selection:text-white">
+    <div className="min-h-screen bg-background text-foreground font-sans selection:bg-primary selection:text-primary-foreground">
       <header>
         <nav
           aria-label="Main"
           className={`fixed top-0 inset-x-0 z-50 transition-all duration-300 border-b ${
             scrolled
-              ? "bg-background/90 backdrop-blur-md border-border shadow-sm py-3"
+              ? "bg-[#0b1220]/92 backdrop-blur-md border-primary/20 shadow-sm py-3"
               : "bg-transparent border-transparent py-5"
           }`}
         >
@@ -61,7 +61,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
               className="flex flex-col leading-none"
               aria-label={`${SITE.brand} — ${SITE.legalName}`}
             >
-              <span className="text-2xl font-black tracking-tighter">
+              <span className="text-2xl font-black tracking-tighter font-display">
                 AS<span className="text-primary"> Awan</span>
               </span>
               <span className="text-[10px] uppercase tracking-[0.18em] text-muted-foreground mt-1 hidden sm:block">
@@ -82,7 +82,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
               <LanguageSwitch lang={lang} onChange={switchLang} />
               <Button
                 onClick={() => goHomeSection("contact")}
-                className="bg-primary hover:bg-primary/90 text-white font-bold rounded-full px-6"
+                className="bg-primary hover:bg-primary/90 text-primary-foreground font-bold rounded-full px-6"
               >
                 {t.nav.consult}
               </Button>
@@ -110,7 +110,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
                 </button>
               ))}
               <LanguageSwitch lang={lang} onChange={switchLang} />
-              <Button onClick={() => goHomeSection("contact")} className="bg-primary text-white w-full font-bold">
+              <Button onClick={() => goHomeSection("contact")} className="bg-primary text-primary-foreground w-full font-bold">
                 {t.nav.consult}
               </Button>
             </div>
@@ -124,7 +124,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <div className="container mx-auto px-4 md:px-6 flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex flex-col items-center md:items-start gap-3 max-w-md">
             <Link href={localizePath(lang, "/")}>
-              <span className="text-2xl font-black tracking-tighter">
+              <span className="text-2xl font-black tracking-tighter font-display">
                 AS<span className="text-primary"> Awan</span>
               </span>
             </Link>
@@ -184,7 +184,7 @@ function LanguageSwitch({ lang, onChange }: { lang: Lang; onChange: (l: Lang) =>
           key={code}
           onClick={() => onChange(code)}
           className={`px-2.5 py-1 text-xs font-bold rounded-full transition-colors ${
-            lang === code ? "bg-primary text-white" : "text-muted-foreground hover:text-foreground"
+            lang === code ? "bg-primary text-primary-foreground" : "text-muted-foreground hover:text-foreground"
           }`}
           lang={LANG_META[code].locale}
         >

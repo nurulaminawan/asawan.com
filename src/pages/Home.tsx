@@ -90,7 +90,7 @@ export default function Home() {
       <main id="main-content">
         <section id="hero" className="relative min-h-[100dvh] flex items-center justify-center overflow-hidden pt-20">
           <div className="absolute inset-0 z-0">
-            <div className="absolute inset-0 bg-background/80 z-10" />
+            <div className="absolute inset-0 z-10 bg-gradient-to-b from-[#0b1220]/50 via-[#0b1220]/78 to-[#0b1220]" />
             <img
               src="/hero-bg.png"
               alt="Law library and scales of justice — Abdul Salam Awan Solicitors, AS Awan"
@@ -105,7 +105,7 @@ export default function Home() {
               <motion.path
                 d="M 100 800 Q 300 700 400 400 T 800 200"
                 fill="none"
-                stroke="#ff6310"
+                stroke="#c6a15b"
                 strokeWidth="4"
                 initial={{ pathLength: 0 }}
                 animate={{ pathLength: 1 }}
@@ -148,7 +148,7 @@ export default function Home() {
               >
                 <Button
                   size="lg"
-                  className="bg-primary hover:bg-primary/90 text-white font-bold h-14 px-8 text-lg w-full sm:w-auto rounded-none"
+                  className="bg-primary hover:bg-primary/90 text-primary-foreground font-bold h-14 px-8 text-lg w-full sm:w-auto rounded-none"
                   onClick={() => document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" })}
                 >
                   {t.hero.cta}
@@ -165,7 +165,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="absolute bottom-0 inset-x-0 border-t border-border bg-background/95 backdrop-blur z-20">
+          <div className="absolute bottom-0 inset-x-0 border-t border-primary/20 bg-[#0b1220]/95 backdrop-blur z-20">
             <div className="container mx-auto px-4">
               <div className="grid grid-cols-2 md:grid-cols-4 divide-x divide-border rtl:divide-x-reverse">
                 {t.stats.map((stat, i) => (
@@ -215,8 +215,8 @@ export default function Home() {
                   <img src="/about-office.png" alt="AS Awan solicitor office" className="object-cover w-full h-full" loading="lazy" />
                 </div>
                 <div className="absolute -bottom-8 -start-4 sm:-start-8 bg-primary p-6 sm:p-8 rounded-xl shadow-2xl max-w-[80%]">
-                  <Scale className="w-10 h-10 text-white mb-3" />
-                  <p className="text-white font-bold text-lg">{t.about.badge}</p>
+                  <Scale className="w-10 h-10 text-primary-foreground mb-3" />
+                  <p className="text-primary-foreground font-bold text-lg">{t.about.badge}</p>
                 </div>
               </motion.div>
             </div>
@@ -248,7 +248,7 @@ export default function Home() {
                     <Link href={localizePath(lang, `/services/${slug}`)}>
                       <Card className="bg-card border-border hover:border-primary transition-colors h-full group">
                         <CardContent className="p-8">
-                          <div className="w-16 h-16 rounded-xl bg-background border border-border flex items-center justify-center text-primary mb-6 group-hover:bg-primary group-hover:text-white transition-colors">
+                          <div className="w-16 h-16 rounded-xl bg-background border border-border flex items-center justify-center text-primary mb-6 group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
                             {ICONS[slug]}
                           </div>
                           <h3 className="text-xl font-bold mb-3">{s.title}</h3>
@@ -309,7 +309,7 @@ export default function Home() {
         <section id="compensation" className="relative">
           <div className="relative h-56 md:h-72 overflow-hidden">
             <img src="/gulf-highway.png" alt="Gulf highway — road accident and workplace injury compensation" className="w-full h-full object-cover opacity-40" loading="lazy" />
-            <div className="absolute inset-0 bg-gradient-to-r from-background via-background/70 to-background/20" />
+            <div className="absolute inset-0 bg-gradient-to-r from-[#0b1220] via-[#0b1220]/75 to-[#0b1220]/25" />
             <div className="absolute inset-0 flex items-center">
               <div className="container mx-auto px-4 md:px-6">
                 <p className="text-3xl md:text-5xl font-black tracking-tight">
@@ -338,7 +338,7 @@ export default function Home() {
                 </div>
                 <Link
                   href={localizePath(lang, "/services/compensation")}
-                  className="inline-flex mt-10 bg-primary text-white font-bold h-14 px-8 items-center"
+                  className="inline-flex mt-10 bg-primary text-primary-foreground font-bold h-14 px-8 items-center hover:bg-primary/90"
                 >
                   {t.services.more} →
                 </Link>
@@ -416,12 +416,12 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="py-24 bg-primary text-white text-center">
+        <section className="py-24 bg-primary text-primary-foreground text-center">
           <div className="container mx-auto px-4">
             <h2 className="text-3xl md:text-6xl font-black mb-8 max-w-4xl mx-auto tracking-tight">{t.cta.title}</h2>
             <Button
               size="lg"
-              className="bg-white text-primary hover:bg-gray-100 font-bold h-16 px-10 text-xl rounded-none"
+              className="bg-background text-primary hover:bg-background/90 font-bold h-16 px-10 text-xl rounded-none border border-background"
               onClick={() => document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" })}
             >
               {t.cta.button}
@@ -478,7 +478,7 @@ export default function Home() {
                     <Input name="email" type="email" placeholder={t.contact.emailPh} required className="bg-background h-12" autoComplete="email" />
                     <Input name="subject" placeholder={t.contact.subject} className="bg-background h-12" />
                     <Textarea name="message" placeholder={t.contact.message} required className="bg-background min-h-[140px]" />
-                    <Button type="submit" className="w-full bg-primary text-white font-bold h-12 rounded-none">
+                    <Button type="submit" className="w-full bg-primary text-primary-foreground font-bold h-12 rounded-none">
                       {t.contact.send}
                     </Button>
                     <p className="text-xs text-muted-foreground text-center">
