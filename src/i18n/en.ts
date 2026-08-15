@@ -45,11 +45,11 @@ export const en: Dictionary = {
   ],
   about: {
     kicker: "Who We Are",
-    title: "Solicitors you can instruct in two jurisdictions.",
-    p1: "AS Awan is the practice of Abdul Salam Awan Solicitors — a cross-border legal consultancy serving clients in the Kingdom of Saudi Arabia, the wider Gulf, and Pakistan. From Palestine Road in Jeddah and Turner Road beside Lahore High Court, we combine courtroom familiarity with practical commercial drafting.",
-    p2: "We act as consultants and in-house lawyers: we draft contracts and agreements, prepare legal opinions, handle labour and immigration files, and pursue compensation for death, injury, road accidents and workplace harm. Clients instruct us because we speak their language — English, Urdu, Arabic and French — and because we understand both Gulf employment realities and Pakistani court procedure.",
+    title: "Solicitors you can instruct in Jeddah and at Lahore High Court",
+    p1: "AS Awan is the practice of Abdul Salam Awan Solicitors, a cross-border legal consultancy serving clients in the Kingdom of Saudi Arabia, the wider Gulf and Pakistan. From Palestine Road in Jeddah and Turner Road beside Lahore High Court, we combine courtroom experience with practical commercial drafting.",
+    p2: "We act as consultants and in-house lawyers. We draft contracts and agreements, prepare legal opinions, handle labour and immigration matters, and pursue compensation for death, injury, road accidents and workplace harm in Gulf countries. Clients instruct us because we speak their languages — English, Urdu, Arabic and French — and because we understand both Gulf employment law and Pakistani court procedure.",
     founder: "Abdul Salam Awan",
-    founderRole: "Principal Solicitor & Legal Consultant",
+    founderRole: "Principal Solicitor and Legal Consultant",
     badge: "Jeddah · Lahore High Court",
   },
   services: {
