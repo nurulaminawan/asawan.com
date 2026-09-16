@@ -37,7 +37,7 @@ export const fr: Dictionary = {
     cta2: "Découvrir nos services",
   },
   stats: [
-    { value: "2", label: "Bureaux — Djeddah & Lahore" },
+    { value: "3", label: "Villes — Lahore, Djeddah et Dubaï" },
     { value: "CCG", label: "Indemnisation dans le Golfe" },
     { value: "12+", label: "Domaines de pratique" },
     { value: "4", label: "Langues — EN, AR, UR, FR" },
@@ -49,7 +49,7 @@ export const fr: Dictionary = {
     p2: "Nous intervenons comme consultants et juristes d’entreprise : contrats et conventions, avis, dossiers de travail et d’immigration, et poursuites d’indemnisation pour décès, blessures, accidents de la route et préjudices sur le lieu de travail. Les clients nous mandatent parce que nous parlons leur langue — anglais, ourdou, arabe et français — et parce que nous connaissons à la fois les réalités de l’emploi dans le Golfe et la procédure pakistanaise.",
     founder: "Abdul Salam Awan",
     founderRole: "Solicitor principal & consultant",
-    badge: "Djeddah · Haute Cour de Lahore",
+    badge: "Lahore · Djeddah · Dubaï",
   },
   services: {
     kicker: "Notre expertise",
@@ -171,7 +171,7 @@ export const fr: Dictionary = {
     kicker: "Méthode",
     title: "Six étapes claires",
     steps: [
-      { title: "Prendre contact", desc: "Appelez, WhatsApp ou écrivez depuis Djeddah ou Lahore — en anglais, ourdou, arabe ou français." },
+      { title: "Prendre contact", desc: "Appelez, WhatsApp ou écrivez depuis Lahore, Djeddah ou Dubaï — en anglais, ourdou, arabe ou français." },
       { title: "Brief confidentiel", desc: "Faits, pièces, délais. Les dossiers d’indemnisation et pénaux restent discrets." },
       { title: "Avis et périmètre", desc: "Vous recevez une lecture claire des options, du forum et des pièces." },
       { title: "Rédaction et dépôt", desc: "Contrats, réclamations, requêtes, avis ou pièces visa pour le bon interlocuteur." },
@@ -180,7 +180,7 @@ export const fr: Dictionary = {
     ],
   },
   why: [
-    { title: "Deux villes", desc: "Palestine Road, Djeddah et Turner Road à la Haute Cour de Lahore — un seul cabinet." },
+    { title: "Trois villes", desc: "Haute Cour de Lahore, Djeddah et Dubaï — un cabinet au Pakistan et dans le Golfe." },
     { title: "Indemnisation Golfe", desc: "Décès, blessures, accidents de la route et du travail pour travailleurs et familles." },
     { title: "Quatre langues", desc: "Anglais, ourdou, arabe et français, avec RTL pour l’arabe et l’ourdou." },
     { title: "Des actes, pas des slogans", desc: "Contrats, avis, conveyancing et pièces de procédure." },
@@ -199,12 +199,14 @@ export const fr: Dictionary = {
   },
   locations: {
     kicker: "Où nous trouver",
-    title: "Djeddah et la Haute Cour de Lahore",
-    jeddahTitle: "Djeddah, Arabie saoudite",
-    jeddahDesc: "Palestine Road. Le bureau Golfe pour le travail, l’immigration, les sociétés et l’indemnisation née dans le Royaume et les États voisins.",
+    title: "Lahore, Djeddah et Dubaï",
     lahoreTitle: "Lahore, Pakistan",
     lahoreDesc: "Turner Road, Haute Cour de Lahore. Civil, pénal, famille, actes, et le volet pakistanais de chaque dossier d’indemnisation ou de visa du Golfe.",
-    banner: "Deux bureaux.",
+    jeddahTitle: "Djeddah, Arabie saoudite",
+    jeddahDesc: "Palestine Road. Le bureau Golfe pour le travail, l’immigration, les sociétés et l’indemnisation née dans le Royaume et les États voisins.",
+    dubaiTitle: "Dubaï, Émirats arabes unis",
+    dubaiDesc: "Sheikh Zayed Road. Bureau EAU pour les clients du Golfe — travail, immigration, documents sociétaires et instructions transfrontalières liées au Pakistan et à l’Arabie saoudite.",
+    banner: "Trois villes.",
     banner2: "Un cabinet de solicitors.",
   },
   people: {
@@ -221,7 +223,7 @@ export const fr: Dictionary = {
     { q: "Pouvez-vous agir comme juristes d’entreprise ?", a: "Oui. Retainers et in-house pour les sociétés qui ont besoin de contrats, travail, immigration et avis sans un service juridique complet." },
     { q: "Rédigez-vous contrats, conventions et actes ?", a: "Oui. La rédaction est centrale : contrats commerciaux et de travail, règlements familiaux, procurations, avis et conveyancing." },
     { q: "Aidez-vous pour l’immigration et les visas d’études ?", a: "Nous conseillons et constituons les pièces / avis. Nous ne vendons pas de visa garanti. Ce sont des dossiers juridiques." },
-    { q: "Comment joindre Djeddah ou Lahore ?", a: "Pakistan : +92 333 4343438. Arabie saoudite : +966 59 335 3839. Email : abdulsalamawan@gmail.com. WhatsApp sur le site." },
+    { q: "Comment nous joindre ?", a: "Arabie saoudite : +966 58 353 8247. Pakistan : +92 331 405 4066 (WhatsApp). EAU : +971 56 491 0144. Email : abdulsalamawan@gmail.com. Villes : Lahore, Djeddah et Dubaï." },
   ],
   cta: {
     title: "Si le dossier est une blessure dans le Golfe, une audience en Haute Cour, ou un contrat à ne pas signer à l’aveugle — appelez.",
@@ -244,7 +246,7 @@ export const fr: Dictionary = {
     subjectDefault: "Demande via le site AS Awan",
   },
   footer: {
-    blurb: "Abdul Salam Awan Solicitors (AS Awan) — consultants à Djeddah et Lahore pour le civil, le pénal, la famille, le travail, l’indemnisation Golfe, l’immigration et la rédaction.",
+    blurb: "Abdul Salam Awan Solicitors (AS Awan) — consultants à Lahore, Djeddah et Dubaï pour le civil, le pénal, la famille, le travail, l’indemnisation Golfe, l’immigration et la rédaction.",
     privacy: "Confidentialité",
     terms: "Conditions d’utilisation",
     rights: "Abdul Salam Awan Solicitors. Tous droits réservés.",
@@ -255,7 +257,7 @@ export const fr: Dictionary = {
     privacyBody: [
       "Abdul Salam Awan Solicitors ne collecte que ce que vous envoyez : nom, email, téléphone et faits de la demande, pour répondre et fournir le service.",
       "Nous ne vendons pas les données. Le contenu peut devenir confidentiel une fois la relation solicitor–client établie. Hébergement via GitHub Pages.",
-      "Bureaux : Palestine Road, Djeddah ; Turner Road, Haute Cour de Lahore. Email : abdulsalamawan@gmail.com.",
+      "Villes : Turner Road, Haute Cour de Lahore ; Palestine Road, Djeddah ; Sheikh Zayed Road, Dubaï. Email : abdulsalamawan@gmail.com. Arabie saoudite : +966 58 353 8247. Pakistan (WhatsApp) : +92 331 405 4066. EAU : +971 56 491 0144.",
     ],
     termsTitle: "Conditions d’utilisation",
     termsBody: [

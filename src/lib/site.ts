@@ -8,35 +8,33 @@ export const SITE = {
   foundingYear: 1998,
   phones: [
     {
+      id: "sa",
+      e164: "+966583538247",
+      display: "+966 58 353 8247",
+      label: "Saudi Arabia",
+      country: "SA",
+    },
+    {
       id: "pk",
-      e164: "+923334343438",
-      display: "+92 333 4343438",
+      e164: "+923314054066",
+      display: "+92 331 405 4066",
       label: "Pakistan",
       country: "PK",
     },
     {
-      id: "sa",
-      e164: "+966593353839",
-      display: "+966 59 335 3839",
-      label: "Saudi Arabia",
-      country: "SA",
+      id: "ae",
+      e164: "+971564910144",
+      display: "+971 56 491 0144",
+      label: "UAE",
+      country: "AE",
     },
   ],
+  /** Floating WhatsApp CTA — Pakistan desk */
+  whatsapp: {
+    e164: "+923314054066",
+    display: "+92 331 405 4066",
+  },
   offices: {
-    jeddah: {
-      id: "jeddah",
-      city: "Jeddah",
-      country: "Saudi Arabia",
-      countryCode: "SA",
-      region: "Makkah Province",
-      street: "Palestine Road",
-      address: "Palestine Road, Jeddah, Kingdom of Saudi Arabia",
-      lat: 21.54333,
-      lng: 39.17278,
-      mapSrc:
-        "https://www.openstreetmap.org/export/embed.html?bbox=39.12%2C21.51%2C39.23%2C21.58&layer=mapnik&marker=21.54333%2C39.17278",
-      phone: "+966593353839",
-    },
     lahore: {
       id: "lahore",
       city: "Lahore",
@@ -49,7 +47,35 @@ export const SITE = {
       lng: 74.3095,
       mapSrc:
         "https://www.openstreetmap.org/export/embed.html?bbox=74.29%2C31.56%2C74.33%2C31.585&layer=mapnik&marker=31.5704%2C74.3095",
-      phone: "+923334343438",
+      phone: "+923314054066",
+    },
+    jeddah: {
+      id: "jeddah",
+      city: "Jeddah",
+      country: "Saudi Arabia",
+      countryCode: "SA",
+      region: "Makkah Province",
+      street: "Palestine Road",
+      address: "Palestine Road, Jeddah, Kingdom of Saudi Arabia",
+      lat: 21.54333,
+      lng: 39.17278,
+      mapSrc:
+        "https://www.openstreetmap.org/export/embed.html?bbox=39.12%2C21.51%2C39.23%2C21.58&layer=mapnik&marker=21.54333%2C39.17278",
+      phone: "+966583538247",
+    },
+    dubai: {
+      id: "dubai",
+      city: "Dubai",
+      country: "United Arab Emirates",
+      countryCode: "AE",
+      region: "Dubai",
+      street: "Sheikh Zayed Road",
+      address: "Sheikh Zayed Road, Dubai, United Arab Emirates",
+      lat: 25.2048,
+      lng: 55.2708,
+      mapSrc:
+        "https://www.openstreetmap.org/export/embed.html?bbox=55.20%2C25.16%2C55.34%2C25.25&layer=mapnik&marker=25.2048%2C55.2708",
+      phone: "+971564910144",
     },
   },
 } as const;

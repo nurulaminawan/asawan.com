@@ -38,7 +38,7 @@ export const en: Dictionary = {
     cta2: "Explore Our Services",
   },
   stats: [
-    { value: "2", label: "Offices — Jeddah and Lahore" },
+    { value: "3", label: "Cities — Lahore, Jeddah and Dubai" },
     { value: "GCC+", label: "Gulf compensation coverage" },
     { value: "12+", label: "Practice areas" },
     { value: "4", label: "Languages — EN, AR, UR, FR" },
@@ -50,7 +50,7 @@ export const en: Dictionary = {
     p2: "We act as consultants and in-house lawyers. We draft contracts and agreements, prepare legal opinions, handle labour and immigration matters, and pursue compensation for death, injury, road accidents and workplace harm in Gulf countries. Clients instruct us because we speak their languages — English, Urdu, Arabic and French — and because we understand both Gulf employment law and Pakistani court procedure.",
     founder: "Abdul Salam Awan",
     founderRole: "Principal Solicitor and Legal Consultant",
-    badge: "Jeddah · Lahore High Court",
+    badge: "Lahore · Jeddah · Dubai",
   },
   services: {
     kicker: "Our Expertise",
@@ -261,7 +261,7 @@ export const en: Dictionary = {
     kicker: "How It Works",
     title: "A clear six-step engagement",
     steps: [
-      { title: "Get in Touch", desc: "Call, WhatsApp or write from Jeddah or Lahore — in English, Urdu, Arabic or French." },
+      { title: "Get in Touch", desc: "Call, WhatsApp or write from Lahore, Jeddah or Dubai — in English, Urdu, Arabic or French." },
       { title: "Confidential Brief", desc: "We take facts, papers and deadlines. Compensation and criminal files are handled discreetly." },
       { title: "Opinion & Scope", desc: "You receive a plain-language view of options, forums and likely documents." },
       { title: "Drafting & Filing", desc: "Contracts, claims, petitions, opinions or visa papers are prepared for the correct counter." },
@@ -270,7 +270,7 @@ export const en: Dictionary = {
     ],
   },
   why: [
-    { title: "Two-city presence", desc: "Palestine Road, Jeddah and Turner Road at Lahore High Court — one practice, two time zones." },
+    { title: "Three-city presence", desc: "Lahore High Court, Jeddah and Dubai — one practice across Pakistan and the Gulf." },
     { title: "Gulf compensation focus", desc: "Death, injury, RTA and workplace claims for workers and families across Gulf countries." },
     { title: "Four working languages", desc: "English, Urdu, Arabic and French, with proper RTL for Arabic and Urdu." },
     { title: "Drafting, not slogans", desc: "Contracts, opinions, conveyancing and court papers you can file." },
@@ -289,14 +289,17 @@ export const en: Dictionary = {
   },
   locations: {
     kicker: "Where We Sit",
-    title: "Jeddah and Lahore High Court",
-    jeddahTitle: "Jeddah, Saudi Arabia",
-    jeddahDesc:
-      "Palestine Road (KSA). The Gulf desk for labour, immigration, company papers and compensation files arising in the Kingdom and neighbouring states.",
+    title: "Lahore, Jeddah and Dubai",
     lahoreTitle: "Lahore, Pakistan",
     lahoreDesc:
       "Turner Road, Lahore High Court. Civil, criminal, family, conveyancing and the Pakistan side of every Gulf compensation and visa file.",
-    banner: "Two desks.",
+    jeddahTitle: "Jeddah, Saudi Arabia",
+    jeddahDesc:
+      "Palestine Road (KSA). The Gulf desk for labour, immigration, company papers and compensation files arising in the Kingdom and neighbouring states.",
+    dubaiTitle: "Dubai, United Arab Emirates",
+    dubaiDesc:
+      "Sheikh Zayed Road. The UAE desk for labour, immigration, company papers and cross-border instructions linked to Pakistan and Saudi Arabia.",
+    banner: "Three cities.",
     banner2: "One solicitor’s practice.",
   },
   people: {
@@ -332,8 +335,8 @@ export const en: Dictionary = {
       a: "We provide visa consultancy and document/opinion support. We do not sell guaranteed visas. Files are treated as legal work.",
     },
     {
-      q: "How do I contact the Jeddah or Lahore office?",
-      a: "Pakistan: +92 333 4343438. Saudi Arabia: +966 59 335 3839. Email: abdulsalamawan@gmail.com. WhatsApp is available on the site.",
+      q: "How do I get in touch?",
+      a: "Saudi Arabia: +966 58 353 8247. Pakistan: +92 331 405 4066 (WhatsApp). UAE: +971 56 491 0144. Email: abdulsalamawan@gmail.com. Locations: Lahore, Jeddah and Dubai.",
     },
   ],
   cta: {
@@ -358,7 +361,7 @@ export const en: Dictionary = {
   },
   footer: {
     blurb:
-      "Abdul Salam Awan Solicitors (AS Awan) — legal consultants in Jeddah and Lahore for civil, criminal, family, labour, Gulf compensation, immigration and drafting.",
+      "Abdul Salam Awan Solicitors (AS Awan) — legal consultants in Lahore, Jeddah and Dubai for civil, criminal, family, labour, Gulf compensation, immigration and drafting.",
     privacy: "Privacy Policy",
     terms: "Terms of Use",
     rights: "Abdul Salam Awan Solicitors. All rights reserved.",
@@ -373,7 +376,7 @@ export const en: Dictionary = {
     privacyBody: [
       "Abdul Salam Awan Solicitors (AS Awan) collects only what you send us: name, email, phone and the facts of your enquiry. We use that information to respond and to provide legal services.",
       "We do not sell personal data. Enquiry contents may be privileged once a solicitor–client relationship exists. Hosting is via GitHub Pages; email is via the address you write to.",
-      "Offices: Palestine Road, Jeddah, Kingdom of Saudi Arabia; Turner Road, Lahore High Court, Lahore, Pakistan. Contact: abdulsalamawan@gmail.com.",
+      "Locations: Turner Road, Lahore High Court, Lahore; Palestine Road, Jeddah; Sheikh Zayed Road, Dubai. Contact: abdulsalamawan@gmail.com. Saudi Arabia: +966 58 353 8247. Pakistan (WhatsApp): +92 331 405 4066. UAE: +971 56 491 0144.",
     ],
     termsTitle: "Terms of Use",
     termsBody: [

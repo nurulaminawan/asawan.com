@@ -2,9 +2,10 @@
 
 Public website for **AS Awan / Abdul Salam Awan Solicitors**.
 
-- Jeddah: Palestine Road, Kingdom of Saudi Arabia
 - Lahore: Turner Road, Lahore High Court, Pakistan
-- +92 333 4343438 · +966 59 335 3839 · abdulsalamawan@gmail.com
+- Jeddah: Palestine Road, Kingdom of Saudi Arabia
+- Dubai: Sheikh Zayed Road, United Arab Emirates
+- Saudi Arabia: +966 58 353 8247 · Pakistan (WhatsApp): +92 331 405 4066 · UAE: +971 56 491 0144 · abdulsalamawan@gmail.com
 
 Languages: English, Arabic (RTL), Urdu (RTL), French.
 

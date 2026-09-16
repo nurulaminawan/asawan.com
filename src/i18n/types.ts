@@ -74,10 +74,12 @@ export type Dictionary = {
   locations: {
     kicker: string;
     title: string;
-    jeddahTitle: string;
-    jeddahDesc: string;
     lahoreTitle: string;
     lahoreDesc: string;
+    jeddahTitle: string;
+    jeddahDesc: string;
+    dubaiTitle: string;
+    dubaiDesc: string;
     banner: string;
     banner2: string;
   };

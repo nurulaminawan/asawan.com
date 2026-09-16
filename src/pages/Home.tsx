@@ -366,10 +366,11 @@ export default function Home() {
               <div className="text-primary font-bold tracking-widest uppercase mb-4 text-sm">{t.locations.kicker}</div>
               <h2 className="text-4xl md:text-5xl font-black">{t.locations.title}</h2>
             </div>
-            <div className="grid md:grid-cols-2 gap-8">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               {[
-                { office: SITE.offices.jeddah, img: "/jeddah.png", title: t.locations.jeddahTitle, desc: t.locations.jeddahDesc },
                 { office: SITE.offices.lahore, img: "/lahore-court.png", title: t.locations.lahoreTitle, desc: t.locations.lahoreDesc },
+                { office: SITE.offices.jeddah, img: "/jeddah.png", title: t.locations.jeddahTitle, desc: t.locations.jeddahDesc },
+                { office: SITE.offices.dubai, img: "/about-office.png", title: t.locations.dubaiTitle, desc: t.locations.dubaiDesc },
               ].map((loc) => (
                 <div key={loc.office.id} className="bg-background border border-border rounded-xl overflow-hidden group">
                   <div className="h-48 w-full relative">

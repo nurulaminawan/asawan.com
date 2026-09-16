@@ -130,9 +130,11 @@ export function Layout({ children }: { children: React.ReactNode }) {
             </Link>
             <p className="text-muted-foreground text-sm text-center md:text-start">{t.footer.blurb}</p>
             <address className="not-italic text-xs text-muted-foreground/70 text-center md:text-start">
+              {SITE.offices.lahore.address}
+              <br />
               {SITE.offices.jeddah.address}
               <br />
-              {SITE.offices.lahore.address}
+              {SITE.offices.dubai.address}
               <br />
               <a href={`mailto:${SITE.email}`} className="hover:text-primary">
                 {SITE.email}
@@ -163,7 +165,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
       </footer>
 
       <a
-        href={`https://wa.me/${SITE.phones[0].e164.replace("+", "")}`}
+        href={`https://wa.me/${SITE.whatsapp.e164.replace("+", "")}`}
         target="_blank"
         rel="noopener noreferrer"
         aria-label={t.whatsapp}

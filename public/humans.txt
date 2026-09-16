@@ -1,7 +1,7 @@
 /* TEAM */
 Solicitor: Abdul Salam Awan
 Contact: abdulsalamawan@gmail.com
-From: Jeddah, Saudi Arabia / Lahore, Pakistan
+From: Lahore, Pakistan / Jeddah, Saudi Arabia / Dubai, UAE
 
 /* SITE */
 Standards: HTML5, Schema.org LegalService, hreflang

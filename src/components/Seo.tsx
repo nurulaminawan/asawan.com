@@ -87,7 +87,7 @@ export function Seo({ title, description, path, jsonLd = [] }: Props) {
       <h1>{title}</h1>
       <p>{description}</p>
       <p>
-        {SITE.legalName} · {SITE.email} · {SITE.offices.jeddah.address} · {SITE.offices.lahore.address}
+        {SITE.legalName} · {SITE.email} · {SITE.offices.lahore.address} · {SITE.offices.jeddah.address} · {SITE.offices.dubai.address}
       </p>
     </noscript>
   );
