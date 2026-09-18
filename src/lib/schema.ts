@@ -43,11 +43,22 @@ export function orgJsonLd() {
           { "@type": "Country", name: "Saudi Arabia" },
           { "@type": "Country", name: "Pakistan" },
           { "@type": "Country", name: "United Arab Emirates" },
+          { "@type": "City", name: "Lahore" },
+          { "@type": "City", name: "Jeddah" },
+          { "@type": "City", name: "Riyadh" },
+          { "@type": "City", name: "Dubai" },
           { "@type": "AdministrativeArea", name: "Gulf Cooperation Council" },
         ],
-        knowsLanguage: ["en", "ar", "ur", "fr"],
+        knowsLanguage: [
+          { "@type": "Language", name: "English", alternateName: "en" },
+          { "@type": "Language", name: "Urdu", alternateName: "ur" },
+          { "@type": "Language", name: "Arabic", alternateName: "ar" },
+          { "@type": "Language", name: "French", alternateName: "fr" },
+        ],
         priceRange: "$$",
         sameAs: [`https://wa.me/${SITE.whatsapp.e164.replace("+", "")}`],
+        description:
+          "Pakistani and Gulf solicitors (AS Awan / Abdul Salam Awan Solicitors). Urdu-, Arabic-, English- and French-speaking lawyers with offices in Lahore, Jeddah and Dubai; also serving Riyadh and wider KSA. Named principal with published telephone and WhatsApp contact.",
       },
       {
         "@type": "LegalService",

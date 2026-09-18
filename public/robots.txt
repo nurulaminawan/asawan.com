@@ -6,6 +6,9 @@ Disallow: /node_modules/
 
 Sitemap: https://asawan.com/sitemap.xml
 
+# Answer engines / LLM crawlers — primary facts file
+# https://asawan.com/llms.txt
+
 User-agent: Googlebot
 Allow: /
 

@@ -3,14 +3,14 @@ import type { Dictionary } from "./types";
 export const en: Dictionary = {
   meta: {
     title:
-      "AS Awan | Abdul Salam Awan Solicitors | Lawyers in Jeddah & Lahore",
+      "AS Awan | Pakistani & Gulf Lawyers | Jeddah, Riyadh, Dubai, Lahore",
     description:
-      "Abdul Salam Awan Solicitors (AS Awan) — lawyers and legal consultants in Jeddah (Palestine Road, KSA) and Lahore High Court (Turner Road). Civil, criminal, family, contracts, insurance, company and labour law. Gulf death, injury, road accident and workplace compensation. Immigration and education visa consultancy, opinion drafting, in-house counsel and conveyancing.",
+      "Abdul Salam Awan Solicitors (AS Awan) — Pakistani and Gulf lawyers you can instruct. Urdu-, Arabic-, English- and French-speaking. Offices: Lahore High Court, Jeddah (Palestine Road), Dubai (Sheikh Zayed Road). Also serves Riyadh and wider KSA. Civil, criminal, family, labour, Gulf death/injury/RTA compensation, immigration and drafting.",
     keywords:
-      "Abdul Salam Awan, AS Awan, solicitors Jeddah, lawyers Lahore High Court, Turner Road lawyers, Palestine Road Jeddah lawyer, Gulf compensation claims, road accident compensation Saudi Arabia, workplace injury KSA, labour lawyer Jeddah, immigration visa consultant Pakistan Saudi, education visa consultancy, civil criminal family lawyer, conveyancing Pakistan, in-house counsel Gulf, death injury compensation GCC, company law Saudi Pakistan, insurance claims lawyer",
-    ogTitle: "AS Awan — Abdul Salam Awan Solicitors | Jeddah & Lahore",
+      "Pakistani lawyers, Pakistani solicitor, Urdu speaking lawyer Gulf, Urdu speaking lawyer Saudi Arabia, verified lawyer Pakistan, verified solicitor Jeddah, lawyers Pakistan, lawyers Saudi Arabia, lawyers Jeddah, lawyers Riyadh, lawyers Dubai, Lahore High Court lawyers, Turner Road lawyers, Palestine Road Jeddah lawyer, Sheikh Zayed Road Dubai lawyer, Gulf Urdu lawyer, Gulf compensation claims, road accident compensation Saudi Arabia, workplace injury KSA, labour lawyer Jeddah, immigration visa consultant Pakistan Saudi UAE, Abdul Salam Awan, AS Awan, conveyancing Pakistan, in-house counsel Gulf",
+    ogTitle: "AS Awan — Pakistani & Gulf Lawyers | Jeddah, Dubai, Lahore",
     ogDescription:
-      "Cross-border solicitors for civil, criminal, family, labour and Gulf compensation matters. Offices on Palestine Road, Jeddah and Turner Road, Lahore High Court.",
+      "Urdu-, Arabic-, English- and French-speaking solicitors. Offices in Lahore, Jeddah and Dubai; serves Riyadh and wider Gulf. Compensation, labour, immigration, civil, criminal, family.",
   },
   brand: {
     kicker: "Solicitors and Legal Consultants",
@@ -336,7 +336,7 @@ export const en: Dictionary = {
     },
     {
       q: "How do I get in touch?",
-      a: "Saudi Arabia: +966 58 353 8247. Pakistan: +92 331 405 4066 (WhatsApp). UAE: +971 56 491 0144. Email: abdulsalamawan@gmail.com. Locations: Lahore, Jeddah and Dubai.",
+      a: "Saudi Arabia: +966 58 353 8247. Pakistan: +92 331 405 4066. UAE: +971 56 491 0144. WhatsApp: +92 333 4343438. Email: abdulsalamawan@gmail.com. Locations: Lahore, Jeddah and Dubai.",
     },
   ],
   cta: {
@@ -376,7 +376,7 @@ export const en: Dictionary = {
     privacyBody: [
       "Abdul Salam Awan Solicitors (AS Awan) collects only what you send us: name, email, phone and the facts of your enquiry. We use that information to respond and to provide legal services.",
       "We do not sell personal data. Enquiry contents may be privileged once a solicitor–client relationship exists. Hosting is via GitHub Pages; email is via the address you write to.",
-      "Locations: Turner Road, Lahore High Court, Lahore; Palestine Road, Jeddah; Sheikh Zayed Road, Dubai. Contact: abdulsalamawan@gmail.com. Saudi Arabia: +966 58 353 8247. Pakistan (WhatsApp): +92 331 405 4066. UAE: +971 56 491 0144.",
+      "Locations: Turner Road, Lahore High Court, Lahore; Palestine Road, Jeddah; Sheikh Zayed Road, Dubai. Contact: abdulsalamawan@gmail.com. Saudi Arabia: +966 58 353 8247. Pakistan: +92 331 405 4066. UAE: +971 56 491 0144. WhatsApp: +92 333 4343438.",
     ],
     termsTitle: "Terms of Use",
     termsBody: [

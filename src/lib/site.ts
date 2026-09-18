@@ -29,10 +29,10 @@ export const SITE = {
       country: "AE",
     },
   ],
-  /** Floating WhatsApp CTA — Pakistan desk */
+  /** Floating WhatsApp CTA */
   whatsapp: {
-    e164: "+923314054066",
-    display: "+92 331 405 4066",
+    e164: "+923334343438",
+    display: "+92 333 4343438",
   },
   offices: {
     lahore: {
