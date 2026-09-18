@@ -16,8 +16,8 @@ export const SITE = {
     },
     {
       id: "pk",
-      e164: "+923314054066",
-      display: "+92 331 405 4066",
+      e164: "+923334343438",
+      display: "+92 333 4343438",
       label: "Pakistan",
       country: "PK",
     },
@@ -47,7 +47,7 @@ export const SITE = {
       lng: 74.3095,
       mapSrc:
         "https://www.openstreetmap.org/export/embed.html?bbox=74.29%2C31.56%2C74.33%2C31.585&layer=mapnik&marker=31.5704%2C74.3095",
-      phone: "+923314054066",
+      phone: "+923334343438",
     },
     jeddah: {
       id: "jeddah",

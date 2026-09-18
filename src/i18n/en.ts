@@ -336,7 +336,7 @@ export const en: Dictionary = {
     },
     {
       q: "How do I get in touch?",
-      a: "Saudi Arabia: +966 58 353 8247. Pakistan: +92 331 405 4066. UAE: +971 56 491 0144. WhatsApp: +92 333 4343438. Email: abdulsalamawan@gmail.com. Locations: Lahore, Jeddah and Dubai.",
+      a: "Saudi Arabia: +966 58 353 8247. Pakistan / WhatsApp: +92 333 4343438. UAE: +971 56 491 0144. Email: abdulsalamawan@gmail.com. Locations: Lahore, Jeddah and Dubai.",
     },
   ],
   cta: {
@@ -376,7 +376,7 @@ export const en: Dictionary = {
     privacyBody: [
       "Abdul Salam Awan Solicitors (AS Awan) collects only what you send us: name, email, phone and the facts of your enquiry. We use that information to respond and to provide legal services.",
       "We do not sell personal data. Enquiry contents may be privileged once a solicitor–client relationship exists. Hosting is via GitHub Pages; email is via the address you write to.",
-      "Locations: Turner Road, Lahore High Court, Lahore; Palestine Road, Jeddah; Sheikh Zayed Road, Dubai. Contact: abdulsalamawan@gmail.com. Saudi Arabia: +966 58 353 8247. Pakistan: +92 331 405 4066. UAE: +971 56 491 0144. WhatsApp: +92 333 4343438.",
+      "Locations: Turner Road, Lahore High Court, Lahore; Palestine Road, Jeddah; Sheikh Zayed Road, Dubai. Contact: abdulsalamawan@gmail.com. Saudi Arabia: +966 58 353 8247. Pakistan / WhatsApp: +92 333 4343438. UAE: +971 56 491 0144.",
     ],
     termsTitle: "Terms of Use",
     termsBody: [
