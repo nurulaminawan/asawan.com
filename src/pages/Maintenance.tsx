@@ -1,6 +1,8 @@
 import { SITE } from "@/lib/site";
 
 export default function Maintenance() {
+  const phones = SITE.phones.filter((p) => p.id !== "sa");
+
   return (
     <div className="min-h-[100dvh] flex items-center justify-center px-6 bg-background text-foreground relative overflow-hidden">
       <div
@@ -19,7 +21,7 @@ export default function Maintenance() {
           We are updating asawan.com. Please check back shortly, or contact the practice directly.
         </p>
         <div className="space-y-2 text-sm md:text-base" dir="ltr">
-          {SITE.phones.map((p) => (
+          {phones.map((p) => (
             <p key={p.id}>
               <span className="text-muted-foreground">{p.label}: </span>
               <a href={`tel:${p.e164}`} className="text-primary hover:underline">
@@ -36,11 +38,6 @@ export default function Maintenance() {
               rel="noopener noreferrer"
             >
               {SITE.whatsapp.display}
-            </a>
-          </p>
-          <p>
-            <a href={`mailto:${SITE.email}`} className="text-primary hover:underline">
-              {SITE.email}
             </a>
           </p>
         </div>
