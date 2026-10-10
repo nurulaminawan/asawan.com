@@ -2,10 +2,12 @@ import { useEffect } from "react";
 import { Switch, Route, Router as WouterRouter, useLocation } from "wouter";
 import { I18nProvider } from "@/lib/i18n";
 import { Layout } from "@/components/Layout";
+import { MAINTENANCE_MODE } from "@/lib/site";
 import Home from "@/pages/Home";
 import ServicePage from "@/pages/ServicePage";
 import LegalPage from "@/pages/LegalPage";
 import NotFound from "@/pages/NotFound";
+import Maintenance from "@/pages/Maintenance";
 
 function ScrollToTop() {
   const [pathname] = useLocation();
@@ -42,6 +44,10 @@ function Routes() {
 }
 
 export default function App() {
+  if (MAINTENANCE_MODE) {
+    return <Maintenance />;
+  }
+
   return (
     <WouterRouter>
       <I18nProvider>

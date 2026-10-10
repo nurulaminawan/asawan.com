@@ -1,13 +1,13 @@
-import type { Dictionary } from "./types";
+﻿import type { Dictionary } from "./types";
 
 export const en: Dictionary = {
   meta: {
     title:
       "AS Awan | Pakistani & Gulf Lawyers | Jeddah, Riyadh, Dubai, Lahore",
     description:
-      "Abdul Salam Awan Solicitors (AS Awan) — Pakistani and Gulf lawyers you can instruct. Urdu-, Arabic-, English- and French-speaking. Offices: Lahore High Court, Jeddah (Palestine Road), Dubai (Sheikh Zayed Road). Also serves Riyadh and wider KSA. Civil, criminal, family, labour, Gulf death/injury/RTA compensation, immigration and drafting.",
+      "Abdul Salam Awan Solicitors (AS Awan) — Pakistani and Gulf lawyers you can instruct. Urdu-, Arabic-, English- and French-speaking. Offices: Lahore High Court, Jeddah, Dubai (Sheikh Zayed Road). Also serves Riyadh and wider KSA. Civil, criminal, family, labour, Gulf death/injury/RTA compensation, immigration and drafting.",
     keywords:
-      "Pakistani lawyers, Pakistani solicitor, Urdu speaking lawyer Gulf, Urdu speaking lawyer Saudi Arabia, verified lawyer Pakistan, verified solicitor Jeddah, lawyers Pakistan, lawyers Saudi Arabia, lawyers Jeddah, lawyers Riyadh, lawyers Dubai, Lahore High Court lawyers, Turner Road lawyers, Palestine Road Jeddah lawyer, Sheikh Zayed Road Dubai lawyer, Gulf Urdu lawyer, Gulf compensation claims, road accident compensation Saudi Arabia, workplace injury KSA, labour lawyer Jeddah, immigration visa consultant Pakistan Saudi UAE, Abdul Salam Awan, AS Awan, conveyancing Pakistan, in-house counsel Gulf",
+      "Pakistani lawyers, Pakistani solicitor, Urdu speaking lawyer Gulf, Urdu speaking lawyer Saudi Arabia, verified lawyer Pakistan, verified solicitor Jeddah, lawyers Pakistan, lawyers Saudi Arabia, lawyers Jeddah, lawyers Riyadh, lawyers Dubai, Lahore High Court lawyers, Turner Road lawyers, Sheikh Zayed Road Dubai lawyer, Gulf Urdu lawyer, Gulf compensation claims, road accident compensation Saudi Arabia, workplace injury KSA, labour lawyer Jeddah, immigration visa consultant Pakistan Saudi UAE, Abdul Salam Awan, AS Awan, conveyancing Pakistan, in-house counsel Gulf",
     ogTitle: "AS Awan — Pakistani & Gulf Lawyers | Jeddah, Dubai, Lahore",
     ogDescription:
       "Urdu-, Arabic-, English- and French-speaking solicitors. Offices in Lahore, Jeddah and Dubai; serves Riyadh and wider Gulf. Compensation, labour, immigration, civil, criminal, family.",
@@ -46,7 +46,7 @@ export const en: Dictionary = {
   about: {
     kicker: "Who We Are",
     title: "Solicitors you can instruct in Jeddah and at Lahore High Court",
-    p1: "AS Awan is the practice of Abdul Salam Awan Solicitors, a cross-border legal consultancy serving clients in the Kingdom of Saudi Arabia, the wider Gulf and Pakistan. From Palestine Road in Jeddah and Turner Road beside Lahore High Court, we combine courtroom experience with practical commercial drafting.",
+    p1: "AS Awan is the practice of Abdul Salam Awan Solicitors, a cross-border legal consultancy serving clients in the Kingdom of Saudi Arabia, the wider Gulf and Pakistan. From Jeddah and Turner Road beside Lahore High Court, we combine courtroom experience with practical commercial drafting.",
     p2: "We act as consultants and in-house lawyers. We draft contracts and agreements, prepare legal opinions, handle labour and immigration matters, and pursue compensation for death, injury, road accidents and workplace harm in Gulf countries. Clients instruct us because we speak their languages — English, Urdu, Arabic and French — and because we understand both Gulf employment law and Pakistani court procedure.",
     founder: "Abdul Salam Awan",
     founderRole: "Principal Solicitor and Legal Consultant",
@@ -183,7 +183,7 @@ export const en: Dictionary = {
         "Compensation for death, injury, road accidents and workplace harm in Saudi Arabia and Gulf countries. Abdul Salam Awan Solicitors — Jeddah & Lahore.",
       intro:
         "This is the work families search for at 2 a.m.: a relative injured or killed on a Gulf road or worksite, and no one explaining the claim.",
-      body: "AS Awan specialises in compensation arising from death, personal injury, road traffic accidents and workplace injuries in Gulf countries — especially Saudi Arabia, and in related GCC fact patterns. We gather medical reports, police or traffic papers, employment contracts, iqama details and witness accounts; we quantify loss; and we pursue the employer, insurer or liable party through the proper channel. Relatives in Pakistan can instruct us from Turner Road; injured workers in Jeddah can attend on Palestine Road. We do not treat these files as generic ‘labour cases’. They are compensation files with medical, statutory and cross-border evidence.",
+      body: "AS Awan specialises in compensation arising from death, personal injury, road traffic accidents and workplace injuries in Gulf countries — especially Saudi Arabia, and in related GCC fact patterns. We gather medical reports, police or traffic papers, employment contracts, iqama details and witness accounts; we quantify loss; and we pursue the employer, insurer or liable party through the proper channel. Relatives in Pakistan can instruct us from Turner Road; injured workers in Jeddah can instruct the Jeddah desk. We do not treat these files as generic ‘labour cases’. They are compensation files with medical, statutory and cross-border evidence.",
       bullets: [
         "Death compensation and dependants’ claims",
         "Road traffic accident (RTA) injury claims",
@@ -295,7 +295,7 @@ export const en: Dictionary = {
       "Turner Road, Lahore High Court. Civil, criminal, family, conveyancing and the Pakistan side of every Gulf compensation and visa file.",
     jeddahTitle: "Jeddah, Saudi Arabia",
     jeddahDesc:
-      "Palestine Road (KSA). The Gulf desk for labour, immigration, company papers and compensation files arising in the Kingdom and neighbouring states.",
+      "Jeddah (KSA). The Gulf desk for labour, immigration, company papers and compensation files arising in the Kingdom and neighbouring states.",
     dubaiTitle: "Dubai, United Arab Emirates",
     dubaiDesc:
       "Sheikh Zayed Road. The UAE desk for labour, immigration, company papers and cross-border instructions linked to Pakistan and Saudi Arabia.",
@@ -312,7 +312,7 @@ export const en: Dictionary = {
   faq: [
     {
       q: "Who is AS Awan?",
-      a: "AS Awan is the brand of Abdul Salam Awan Solicitors — lawyers and legal consultants with offices on Palestine Road, Jeddah (Saudi Arabia) and Turner Road, Lahore High Court (Pakistan).",
+      a: "AS Awan is the brand of Abdul Salam Awan Solicitors — lawyers and legal consultants with offices in Jeddah (Saudi Arabia) and on Turner Road, Lahore High Court (Pakistan).",
     },
     {
       q: "Do you handle road accident and workplace injury compensation in the Gulf?",
@@ -376,7 +376,7 @@ export const en: Dictionary = {
     privacyBody: [
       "Abdul Salam Awan Solicitors (AS Awan) collects only what you send us: name, email, phone and the facts of your enquiry. We use that information to respond and to provide legal services.",
       "We do not sell personal data. Enquiry contents may be privileged once a solicitor–client relationship exists. Hosting is via GitHub Pages; email is via the address you write to.",
-      "Locations: Turner Road, Lahore High Court, Lahore; Palestine Road, Jeddah; Sheikh Zayed Road, Dubai. Contact: abdulsalamawan@gmail.com. Saudi Arabia: +966 58 353 8247. Pakistan / WhatsApp: +92 333 4343438. UAE: +971 56 491 0144.",
+      "Locations: Turner Road, Lahore High Court, Lahore; Jeddah, Saudi Arabia; Sheikh Zayed Road, Dubai. Contact: abdulsalamawan@gmail.com. Saudi Arabia: +966 58 353 8247. Pakistan / WhatsApp: +92 333 4343438. UAE: +971 56 491 0144.",
     ],
     termsTitle: "Terms of Use",
     termsBody: [

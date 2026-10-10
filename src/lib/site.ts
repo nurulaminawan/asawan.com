@@ -1,3 +1,6 @@
+/** Flip to false to restore the full site. */
+export const MAINTENANCE_MODE = true;
+
 export const SITE = {
   brand: "AS Awan",
   legalName: "Abdul Salam Awan Solicitors",
@@ -55,8 +58,8 @@ export const SITE = {
       country: "Saudi Arabia",
       countryCode: "SA",
       region: "Makkah Province",
-      street: "Palestine Road",
-      address: "Palestine Road, Jeddah, Kingdom of Saudi Arabia",
+      street: "",
+      address: "Jeddah, Kingdom of Saudi Arabia",
       lat: 21.54333,
       lng: 39.17278,
       mapSrc:

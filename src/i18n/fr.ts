@@ -1,12 +1,12 @@
-import type { Dictionary } from "./types";
+﻿import type { Dictionary } from "./types";
 
 export const fr: Dictionary = {
   meta: {
     title: "AS Awan | Avocats pakistanais & Golfe | Djeddah, Riyad, Dubaï, Lahore",
     description:
-      "Abdul Salam Awan Solicitors (AS Awan) — avocats pakistanais et du Golfe que vous pouvez mandater. Ourdou, arabe, anglais, français. Bureaux : Haute Cour de Lahore, Djeddah (Palestine Road), Dubaï (Sheikh Zayed Road). Sert aussi Riyad et le reste de l’Arabie saoudite. Civil, pénal, famille, travail, indemnisation Golfe, immigration et rédaction.",
+      "Abdul Salam Awan Solicitors (AS Awan) — avocats pakistanais et du Golfe que vous pouvez mandater. Ourdou, arabe, anglais, français. Bureaux : Haute Cour de Lahore, DJeddah, Dubaï (Sheikh Zayed Road). Sert aussi Riyad et le reste de l’Arabie saoudite. Civil, pénal, famille, travail, indemnisation Golfe, immigration et rédaction.",
     keywords:
-      "avocat pakistanais, avocat ourdou Golfe, avocat Djeddah, avocat Riyad, avocat Dubaï, avocat Lahore, solicitor Pakistan Arabie saoudite, indemnisation accident Arabie saoudite, accident du travail Golfe, AS Awan, Abdul Salam Awan, Palestine Road Djeddah, Sheikh Zayed Road Dubaï",
+      "avocat pakistanais, avocat ourdou Golfe, avocat Djeddah, avocat Riyad, avocat Dubaï, avocat Lahore, solicitor Pakistan Arabie saoudite, indemnisation accident Arabie saoudite, accident du travail Golfe, AS Awan, Abdul Salam Awan, Sheikh Zayed Road Dubaï",
     ogTitle: "AS Awan — Avocats pakistanais & Golfe | Djeddah, Dubaï, Lahore",
     ogDescription:
       "Avocats en ourdou, arabe, anglais et français. Bureaux à Lahore, Djeddah et Dubaï ; sert Riyad et le Golfe. Indemnisation, travail, immigration.",
@@ -45,7 +45,7 @@ export const fr: Dictionary = {
   about: {
     kicker: "Qui nous sommes",
     title: "Des solicitors que vous pouvez mandater dans deux juridictions.",
-    p1: "AS Awan est le cabinet d’Abdul Salam Awan Solicitors — un conseil juridique transfrontalier pour l’Arabie saoudite, le Golfe et le Pakistan. Depuis Palestine Road à Djeddah et Turner Road, à côté de la Haute Cour de Lahore, nous allions la pratique des prétoires à la rédaction commerciale.",
+    p1: "AS Awan est le cabinet d’Abdul Salam Awan Solicitors — un conseil juridique transfrontalier pour l’Arabie saoudite, le Golfe et le Pakistan. Depuis Djeddah et Turner Road, à côté de la Haute Cour de Lahore, nous allions la pratique des prétoires à la rédaction commerciale.",
     p2: "Nous intervenons comme consultants et juristes d’entreprise : contrats et conventions, avis, dossiers de travail et d’immigration, et poursuites d’indemnisation pour décès, blessures, accidents de la route et préjudices sur le lieu de travail. Les clients nous mandatent parce que nous parlons leur langue — anglais, ourdou, arabe et français — et parce que nous connaissons à la fois les réalités de l’emploi dans le Golfe et la procédure pakistanaise.",
     founder: "Abdul Salam Awan",
     founderRole: "Solicitor principal & consultant",
@@ -127,7 +127,7 @@ export const fr: Dictionary = {
       seoTitle: "Indemnisation Golfe | Décès, blessures, accidents | AS Awan",
       seoDescription: "Indemnisation décès, blessures, accidents de la route et du travail en Arabie saoudite et dans le Golfe. Abdul Salam Awan — Djeddah & Lahore.",
       intro: "C’est le dossier que les familles cherchent la nuit : un proche blessé ou tué sur une route ou un chantier du Golfe, sans explication de la réclamation.",
-      body: "AS Awan se spécialise dans l’indemnisation liée au décès, aux blessures, aux accidents de la circulation et aux accidents du travail dans les pays du Golfe — en particulier l’Arabie saoudite. Nous rassemblons rapports médicaux, pièces de police, contrats de travail, iqama et témoignages ; nous chiffrons le préjudice ; nous poursuivons l’employeur, l’assureur ou le responsable. Les familles au Pakistan peuvent nous mandater depuis Turner Road ; les travailleurs blessés à Djeddah peuvent se présenter Palestine Road.",
+      body: "AS Awan se spécialise dans l’indemnisation liée au décès, aux blessures, aux accidents de la circulation et aux accidents du travail dans les pays du Golfe — en particulier l’Arabie saoudite. Nous rassemblons rapports médicaux, pièces de police, contrats de travail, iqama et témoignages ; nous chiffrons le préjudice ; nous poursuivons l’employeur, l’assureur ou le responsable. Les familles au Pakistan peuvent nous mandater depuis Turner Road ; les travailleurs blessés à Djeddah peuvent se présenter à Djeddah.",
       bullets: ["Indemnisation décès et ayants droit", "Accidents de la route", "Accidents du travail et du BTP", "Preuves médicales, police, emploi", "Familles pakistanaises de travailleurs du Golfe"],
     },
     labour: {
@@ -203,7 +203,7 @@ export const fr: Dictionary = {
     lahoreTitle: "Lahore, Pakistan",
     lahoreDesc: "Turner Road, Haute Cour de Lahore. Civil, pénal, famille, actes, et le volet pakistanais de chaque dossier d’indemnisation ou de visa du Golfe.",
     jeddahTitle: "Djeddah, Arabie saoudite",
-    jeddahDesc: "Palestine Road. Le bureau Golfe pour le travail, l’immigration, les sociétés et l’indemnisation née dans le Royaume et les États voisins.",
+    jeddahDesc: "Djeddah. Le bureau Golfe pour le travail, l’immigration, les sociétés et l’indemnisation née dans le Royaume et les États voisins.",
     dubaiTitle: "Dubaï, Émirats arabes unis",
     dubaiDesc: "Sheikh Zayed Road. Bureau EAU pour les clients du Golfe — travail, immigration, documents sociétaires et instructions transfrontalières liées au Pakistan et à l’Arabie saoudite.",
     banner: "Trois villes.",
@@ -217,7 +217,7 @@ export const fr: Dictionary = {
   },
   faqTitle: "Questions fréquentes",
   faq: [
-    { q: "Qui est AS Awan ?", a: "AS Awan est la marque d’Abdul Salam Awan Solicitors — avocats et consultants, Palestine Road à Djeddah (Arabie saoudite) et Turner Road, Haute Cour de Lahore (Pakistan)." },
+    { q: "Qui est AS Awan ?", a: "AS Awan est la marque d’Abdul Salam Awan Solicitors — avocats et consultants, Djeddah (Arabie saoudite) et Turner Road, Haute Cour de Lahore (Pakistan)." },
     { q: "Traitez-vous l’indemnisation accidents de la route et du travail dans le Golfe ?", a: "Oui. Décès, blessures, accidents de la circulation et du travail dans les pays du Golfe sont au cœur de la pratique. Familles au Pakistan et travailleurs blessés en KSA peuvent nous mandater." },
     { q: "Quelles langues parlez-vous ?", a: "Anglais, ourdou, arabe et français. Le site est pleinement LTR/RTL : arabe et ourdou s’affichent de droite à gauche." },
     { q: "Pouvez-vous agir comme juristes d’entreprise ?", a: "Oui. Retainers et in-house pour les sociétés qui ont besoin de contrats, travail, immigration et avis sans un service juridique complet." },
@@ -257,7 +257,7 @@ export const fr: Dictionary = {
     privacyBody: [
       "Abdul Salam Awan Solicitors ne collecte que ce que vous envoyez : nom, email, téléphone et faits de la demande, pour répondre et fournir le service.",
       "Nous ne vendons pas les données. Le contenu peut devenir confidentiel une fois la relation solicitor–client établie. Hébergement via GitHub Pages.",
-      "Villes : Turner Road, Haute Cour de Lahore ; Palestine Road, Djeddah ; Sheikh Zayed Road, Dubaï. Email : abdulsalamawan@gmail.com. Arabie saoudite : +966 58 353 8247. Pakistan / WhatsApp : +92 333 4343438. EAU : +971 56 491 0144.",
+      "Villes : Turner Road, Haute Cour de Lahore ; Djeddah ; Sheikh Zayed Road, Dubaï. Email : abdulsalamawan@gmail.com. Arabie saoudite : +966 58 353 8247. Pakistan / WhatsApp : +92 333 4343438. EAU : +971 56 491 0144.",
     ],
     termsTitle: "Conditions d’utilisation",
     termsBody: [

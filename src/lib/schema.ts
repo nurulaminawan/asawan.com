@@ -26,7 +26,6 @@ export function orgJsonLd() {
           },
           {
             "@type": "PostalAddress",
-            streetAddress: SITE.offices.jeddah.street,
             addressLocality: SITE.offices.jeddah.city,
             addressRegion: SITE.offices.jeddah.region,
             addressCountry: "SA",
@@ -84,7 +83,6 @@ export function orgJsonLd() {
         email: SITE.email,
         address: {
           "@type": "PostalAddress",
-          streetAddress: SITE.offices.jeddah.street,
           addressLocality: SITE.offices.jeddah.city,
           addressRegion: SITE.offices.jeddah.region,
           addressCountry: "SA",
