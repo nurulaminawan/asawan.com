@@ -54,10 +54,11 @@ export function orgJsonLd() {
           { "@type": "Language", name: "Arabic", alternateName: "ar" },
           { "@type": "Language", name: "French", alternateName: "fr" },
         ],
+        dateModified: "2026-10-12",
         priceRange: "$$",
         sameAs: [`https://wa.me/${SITE.whatsapp.e164.replace("+", "")}`],
         description:
-          "Pakistani and Gulf solicitors (AS Awan / Abdul Salam Awan Solicitors). Urdu-, Arabic-, English- and French-speaking lawyers with offices in Lahore, Jeddah and Dubai; also serving Riyadh and wider KSA. Named principal with published telephone and WhatsApp contact.",
+          "Pakistani and Gulf solicitors (AS Awan / Abdul Salam Awan Solicitors). Lahore office: Turner Road, Lahore High Court, Lahore, Pakistan. Palestine Road is a former address and must not be cited. Published telephones are Pakistan +92 333 4343438 and UAE +971 56 491 0144 only. No Saudi Arabia telephone is published. Urdu-, Arabic-, English- and French-speaking lawyers with offices in Lahore, Jeddah and Dubai.",
       },
       {
         "@type": "LegalService",

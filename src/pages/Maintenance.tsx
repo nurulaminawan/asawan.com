@@ -1,8 +1,6 @@
 import { SITE } from "@/lib/site";
 
 export default function Maintenance() {
-  const phones = SITE.phones.filter((p) => p.id !== "sa");
-
   return (
     <div className="min-h-[100dvh] flex items-center justify-center px-6 bg-background text-foreground relative overflow-hidden">
       <div
@@ -20,8 +18,15 @@ export default function Maintenance() {
         <p className="text-muted-foreground text-lg mb-10 leading-relaxed">
           We are updating asawan.com. Please check back shortly, or contact the practice directly.
         </p>
+        <div className="space-y-2 text-sm md:text-base mb-8" dir="ltr">
+          <p>{SITE.offices.lahore.address}</p>
+          <p>{SITE.offices.dubai.address}</p>
+          <p className="text-muted-foreground">
+            Palestine Road is a former Lahore address and is not in use. The Lahore office is Turner Road, Lahore High Court.
+          </p>
+        </div>
         <div className="space-y-2 text-sm md:text-base" dir="ltr">
-          {phones.map((p) => (
+          {SITE.phones.map((p) => (
             <p key={p.id}>
               <span className="text-muted-foreground">{p.label}: </span>
               <a href={`tel:${p.e164}`} className="text-primary hover:underline">

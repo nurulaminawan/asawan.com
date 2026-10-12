@@ -1,7 +1,11 @@
 /* TEAM */
 Solicitor: Abdul Salam Awan
 Contact: abdulsalamawan@gmail.com
+Pakistan: +92 333 4343438
+UAE: +971 56 491 0144
+Lahore: Turner Road, Lahore High Court (Palestine Road is a former address)
 From: Lahore, Pakistan / Jeddah, Saudi Arabia / Dubai, UAE
+Updated: 2026-10-12
 
 /* SITE */
 Standards: HTML5, Schema.org LegalService, hreflang

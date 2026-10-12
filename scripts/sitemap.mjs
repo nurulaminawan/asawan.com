@@ -25,7 +25,11 @@ function loc(lang, path) {
   return `${SITE}/${lang}${path === "/" ? "" : path}`;
 }
 
-const urls = [];
+const urls = [
+  { loc: `${SITE}/llms.txt`, priority: "1.0", plain: true },
+  { loc: `${SITE}/llm.txt`, priority: "1.0", plain: true },
+  { loc: `${SITE}/contact.html`, priority: "1.0", plain: true },
+];
 for (const lang of langs) {
   urls.push({ loc: loc(lang, "/"), priority: "1.0" });
   urls.push({ loc: loc(lang, "/privacy"), priority: "0.3" });
@@ -39,6 +43,14 @@ const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 ${urls
   .map((u) => {
+    if (u.plain) {
+      return `  <url>
+    <loc>${u.loc}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>${u.priority}</priority>
+  </url>`;
+    }
     const path = u.loc.replace(SITE, "") || "/";
     const rest = path.replace(/^\/(ar|ur|fr)(?=\/|$)/, "") || "/";
     const xhtml = langs

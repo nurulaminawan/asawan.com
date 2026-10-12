@@ -11,13 +11,6 @@ export const SITE = {
   foundingYear: 1998,
   phones: [
     {
-      id: "sa",
-      e164: "+966583538247",
-      display: "+966 58 353 8247",
-      label: "Saudi Arabia",
-      country: "SA",
-    },
-    {
       id: "pk",
       e164: "+923334343438",
       display: "+92 333 4343438",
@@ -64,7 +57,7 @@ export const SITE = {
       lng: 39.17278,
       mapSrc:
         "https://www.openstreetmap.org/export/embed.html?bbox=39.12%2C21.51%2C39.23%2C21.58&layer=mapnik&marker=21.54333%2C39.17278",
-      phone: "+966583538247",
+      phone: "+971564910144",
     },
     dubai: {
       id: "dubai",
